@@ -45,9 +45,8 @@ make bonus     # Bonus versiyonu derler
 
 Yalnızca aşağıdaki sistem fonksiyonları ve standart kütüphane fonksiyonları kullanılmıştır:
 
-- `write`, `malloc`, `free`, `kill`, `getpid`, `pause`, `usleep`, `exit`
-- `signal`, `sigemptyset`, `sigaddset`, `sigaction`
-- `ft_printf` (kendi yazılmış versiyonu)
+- `write`, `malloc`, `free`, `kill`, `getpid`, `usleep`, `exit`
+- `signal`
 
 ## 🔐 Kısıtlamalar
 
