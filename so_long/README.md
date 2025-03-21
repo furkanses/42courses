@@ -36,7 +36,7 @@ Oyuncu, harita üzerindeki tüm **collectible** (toplanabilir nesneleri) toplad�
 
 ```bash
 make
-./so_long maps/haritam.ber
+./so_long map.ber
 ```
 
 ### Makefile Kuralları
